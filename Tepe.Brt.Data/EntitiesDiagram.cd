@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tepe.Brt.Data.Entities.PatientEntity">
+    <Position X="1.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Entities\PatientEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tepe.Brt.Data.Entities.RecoItemEntity">
+    <Position X="6.25" Y="3.25" Width="2.75" />
+    <AssociationLine Name="Recommendation" Type="Tepe.Brt.Data.Entities.RecommendationEntity" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.688" Y="5.315" />
+        <Point X="7.688" Y="6.75" />
+        <Point X="4.25" Y="6.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAggEAAAAAAAAAAAAAAAAAAAAAAAQAQAQA=</HashCode>
+      <FileName>Entities\RecoItemEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Recommendation" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Tepe.Brt.Data.Entities.RecommendationEntity">
+    <Position X="1" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEIQAAAAAEAAAAAAAAAAIAAAgAAAAAAAAACAA=</HashCode>
+      <FileName>Entities\RecommendationEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Patient" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
