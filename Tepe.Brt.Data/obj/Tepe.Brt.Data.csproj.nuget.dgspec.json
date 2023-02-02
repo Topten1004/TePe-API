@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj": {}
+    "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj": {
+    "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj",
+        "projectUniqueName": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj",
         "projectName": "Tepe.Brt.Data",
-        "projectPath": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj",
+        "projectPath": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Data\\Tepe.Brt.Data.csproj",
         "packagesPath": "C:\\Users\\MISUKA\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Data\\obj\\",
+        "outputPath": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,8 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/MyComGlobal/_packaging/MyCom.Packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UB1anPbKv3dSCkXGWsA9UEAjqS43OuCKhxB1ZyhbdbA=",
+  "Hash": "Y4AxJ/lTuP13CUv2hSNP089P8JzAHSDqTXTe2g9Iz50=",
   "Source": "Tepe.Brt.Api",
   "BasePath": "_content/Tepe.Brt.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tepe.Brt.Api\\wwwroot",
       "Source": "Tepe.Brt.Api",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Dustin_23dc.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Dustin_23dc.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/Dustin_23dc.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\Dustin_23dc.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\kic_7654.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\kic_7654.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/kic_7654.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\kic_7654.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\kic_916d.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\kic_916d.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/kic_916d.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\kic_916d.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Screenshot_2022.06.27_04.52.39.201_7e0d.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Screenshot_2022.06.27_04.52.39.201_7e0d.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/Screenshot_2022.06.27_04.52.39.201_7e0d.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\Screenshot_2022.06.27_04.52.39.201_7e0d.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Screenshot_2022.07.17_06.49.52.629_955b.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Screenshot_2022.07.17_06.49.52.629_955b.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/Screenshot_2022.07.17_06.49.52.629_955b.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\Screenshot_2022.07.17_06.49.52.629_955b.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\upwork_af73.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\upwork_af73.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/upwork_af73.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\upwork_af73.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\upwork_cda1.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\upwork_cda1.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/upwork_cda1.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\upwork_cda1.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Veron Mark_7b8b.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\CategoryImages\\Veron Mark_7b8b.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/CategoryImages/Veron Mark_7b8b.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\files\\CategoryImages\\Veron Mark_7b8b.png"
     },
     {
-      "Identity": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\RecommendationImages\\blob_40bc.png",
+      "Identity": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\files\\RecommendationImages\\blob_40bc.png",
       "SourceId": "Tepe.Brt.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\GitHub\\DotNet\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
+      "ContentRoot": "E:\\GitHub\\FullStack_Github\\Teeth-API\\Tepe.Brt.Api\\wwwroot\\",
       "BasePath": "_content/Tepe.Brt.Api",
       "RelativePath": "files/RecommendationImages/blob_40bc.png",
       "AssetKind": "All",

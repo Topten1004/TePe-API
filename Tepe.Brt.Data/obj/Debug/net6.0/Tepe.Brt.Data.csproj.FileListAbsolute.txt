@@ -26,3 +26,17 @@ E:\GitHub\DotNet\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\ref\Tepe.Brt.Data.dll
 E:\GitHub\DotNet\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.pdb
 E:\GitHub\DotNet\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.genruntimeconfig.cache
 E:\GitHub\DotNet\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\refint\Tepe.Brt.Data.dll
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\bin\Debug\net6.0\Tepe.Brt.Data.deps.json
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\bin\Debug\net6.0\Tepe.Brt.Data.runtimeconfig.json
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\bin\Debug\net6.0\Tepe.Brt.Data.dll
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\bin\Debug\net6.0\Tepe.Brt.Data.pdb
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.csproj.AssemblyReference.cache
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.AssemblyInfoInputs.cache
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.AssemblyInfo.cs
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.csproj.CoreCompileInputs.cache
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.dll
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\refint\Tepe.Brt.Data.dll
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.pdb
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\Tepe.Brt.Data.genruntimeconfig.cache
+E:\GitHub\FullStack_Github\Teeth-API\Tepe.Brt.Data\obj\Debug\net6.0\ref\Tepe.Brt.Data.dll
